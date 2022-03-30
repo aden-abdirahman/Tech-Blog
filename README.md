@@ -17,7 +17,7 @@ Screenshots of running program: ![](assets/screenshot1.png) ![](assets/screensho
 
 ### Usage:
 
-You can view my deployed website here:[TechBlog](https://aden-abdirahman.github.io/Tech-Blog/) or find my project on my github page and clone it to your local computer for your personal use.
+You can view my deployed website here:[TechBlog](https://frozen-sea-39956.herokuapp.com/) or find my project on my github page and clone it to your local computer for your personal use.
 
 ### License:
 
