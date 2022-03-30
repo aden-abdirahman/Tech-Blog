@@ -1,6 +1,6 @@
 # Tech-Blog
 
-![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blueviolet&style=plastic)
+![License](https://img.shields.io/static/v1?label=License&message=ISC&color=blueviolet&style=plastic)
 
 ## Table of contents:
 
@@ -17,11 +17,11 @@ Screenshots of running program: ![](assets/screenshot1.png) ![](assets/screensho
 
 ### Usage:
 
-    You can view my deployed website here:[TechBlog](https://aden-abdirahman.github.io/Tech-Blog/) or find my project on my github page and clone it to your local computer for your personal use .
+You can view my deployed website here:[TechBlog](https://aden-abdirahman.github.io/Tech-Blog/) or find my project on my github page and clone it to your local computer for your personal use.
 
 ### License:
 
-This project is licensed under: MIT
+This project is licensed under: ISC
 
 ### Contributors:
 
